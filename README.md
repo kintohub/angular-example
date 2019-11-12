@@ -16,7 +16,7 @@ KintoHub aligns teams to ship & operate cloud native apps with ease. [Learn More
 4. Set the **name** of your kinto block
 5. Choose `Node.js` as the **language** and `13.1-alpine` as the **version**
 6. Set the **Build Command** as `npm install && npm run build`
-7. Set the **Build Folder** as `/build`
+7. Set the **Build Folder** as `/dist`
 
 You're now good to go! Click **Create Website** and then on your Master branch click `Build Latest Commit`.
 
