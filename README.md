@@ -1,4 +1,4 @@
-# KintoHub react-example
+# KintoHub angular-example
 
 ## Overview
 Angular is a **framework** for building client applications in HTML,CSS and JavaScript/TypeScript.
@@ -36,8 +36,6 @@ npm start
 # build for production with minification
 npm run build
 ```
-
-For a detailed explanation on how things work, check out the [guide](https://reactjs.org/).
 
 ## Test
 
