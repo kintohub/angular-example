@@ -3,6 +3,7 @@
 ## Overview
 Angular is a **framework** for building client applications in HTML,CSS and JavaScript/TypeScript.
 
+
 [Live Example](https://angular-example-1d0d2-8caf9.web.master.kintohub.com/)
 
 __About KintoHub:__
@@ -52,6 +53,7 @@ npm run e2e
 
 You can do a lot with KintoHub and your deployed application. Some helpful links for next steps that you may consider with this project.
 
+* [Follow Getting Start with Angular Guide for this app](https://angular.io/start)
 * [Creating multiple environments](https://docs.kintohub.com/docs/projects/environments)
 
 Happy coding!
