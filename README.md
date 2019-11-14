@@ -13,11 +13,12 @@ KintoHub aligns teams to ship & operate cloud native apps with ease. [Learn More
 ## Deployment
 1. Apply this template to your [Github](https://github.com/kintohub/angular-example/generate)
 2. Connect your GithubApp to KintoHub.
-3. Create a [Static Website from Build](https://docs.kintohub.com/docs/kintoblocks/websites) on KintoHub and select the Repository you just generated on your account.
-4. Set the **name** of your kinto block
-5. Choose `Node.js` as the **language** and `13.1-alpine` as the **version**
-6. Set the **Build Command** as `npm install && npm run build`
-7. Set the **Build Folder** as `/dist`
+3. Create a [Website Block](https://docs.kintohub.com/docs/kintoblocks/websites) on KintoHub and select the Repository you just generated on your account.
+4. Select **Static Website from Build**
+5. Set the **name** of your kinto block
+6. Choose `Node.js` as the **language** and `13.1-alpine` as the **version**
+7. Set the **Build Command** as `npm install && npm run build`
+8. Set the **Build Folder** as `/dist`
 
 You're now good to go! Click **Create Website** and then on your Master branch click `Build Latest Commit`.
 
